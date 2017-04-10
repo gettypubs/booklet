@@ -20,3 +20,11 @@ One additional thing to note is that the individual pages are marked up in the h
 ``````
 
 Ultimately, this could be used in conjunction with a static-site generator like [**Jekyll**](https://jekyllrb.com/), where the booklet pages were created from the headings and summaries of longer pages in the site and could then link to those pages. Offering a booklet version of a blog or digital publication.
+
+### Credits
+
+[GitHub Corners](https://github.com/tholman/github-corners) link graphic by @tholman.
+
+8-bit icons purchased royalty-free for this use from the [Noun Project](https://thenounproject.com).
+
+Raleway, the official Digital Share font, originally designed by Matt McInerney and distributed under an open font licence through the [League of Movable Type](https://www.theleagueofmoveabletype.com/raleway) and [Google Fonts](https://fonts.google.com/specimen/Raleway).
