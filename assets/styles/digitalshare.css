@@ -66,6 +66,14 @@ img {
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
 }
+#hearteyes {
+  -webkit-filter: none;
+  filter: none;
+  position: absolute;
+  top: 6.5rem;
+  right: 2.5rem;
+  width: 4rem;
+}
 a {
   color: #000;
 }
@@ -112,6 +120,9 @@ hr + h2 {
   img {
     -webkit-filter: none;
     filter: none;
+  }
+  #hearteyes {
+    display: none;
   }
   h1, h2 {
     color: #a313ff;
